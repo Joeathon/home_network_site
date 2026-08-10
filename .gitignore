@@ -1,0 +1,69 @@
+# Custom Ignores
+temp/
+*.csv
+*.ini
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Environment variables and secrets
+.env
+.env.*
+.secrets
+*.pem
+*.key
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# pytest / unit testing status and coverage data
+.pytest_cache/
+.tox/
+.noscript/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+htmlcov/
+.flake8
+
+# IDEs and Editors (Optional but highly recommended)
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
