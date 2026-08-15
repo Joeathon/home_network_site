@@ -1,2 +1,4 @@
 finnhub-python
 pandas
+requests
+sqlalchemy

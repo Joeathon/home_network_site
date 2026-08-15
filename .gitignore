@@ -1,6 +1,7 @@
 # Custom Ignores
 temp/
 *.csv
+*.db
 *.ini
 
 # Byte-compiled / optimized / DLL files
